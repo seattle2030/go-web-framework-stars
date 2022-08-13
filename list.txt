@@ -27,14 +27,3 @@ https://github.com/devfeel/dotweb
 https://github.com/go-kit/kit
 https://github.com/tmaiaroto/aegis
 https://github.com/vardius/gorouter
-https://github.com/go-aah/aah
-https://github.com/ponzu-cms/ponzu
-https://github.com/gramework/gramework
-https://github.com/johng-cn/gf
-https://github.com/tusharsoni/copper
-https://github.com/micro/micro
-https://github.com/go-goyave/goyave
-https://github.com/abahmed/gearbox
-https://github.com/yoyofx/yoyogo
-https://github.com/go-kratos/kratos
-https://github.com/tal-tech/go-zero
