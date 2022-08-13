@@ -26,7 +26,6 @@ https://github.com/labstack/armor
 https://github.com/devfeel/dotweb
 https://github.com/go-kit/kit
 https://github.com/tmaiaroto/aegis
-https://github.com/rs/rest-layer
 https://github.com/vardius/gorouter
 https://github.com/go-aah/aah
 https://github.com/ponzu-cms/ponzu
