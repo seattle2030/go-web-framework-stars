@@ -83,6 +83,7 @@ func main() {
 			}
 			req.Header.Set("Authorization", accessToken)
 
+			time.Sleep(3 * time.Second)
 			resp, err := http.DefaultClient.Do(req)
 			if err != nil {
 				log.Fatal(err)
