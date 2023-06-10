@@ -23,7 +23,6 @@ https://github.com/bnkamalesh/webgo
 https://github.com/labstack/armor
 https://github.com/devfeel/dotweb
 https://github.com/go-kit/kit
-https://github.com/tmaiaroto/aegis
 https://github.com/kataras/iris
 https://github.com/paulbellamy/mango
 https://github.com/goji/goji
