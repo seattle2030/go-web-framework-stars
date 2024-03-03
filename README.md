@@ -4,33 +4,33 @@ Please update **list.txt** (via Pull Request)
 
 | Project Name | Stars | Forks | Open Issues | Description | Last Commit |
 | ------------ | ----- | ----- | ----------- | ----------- | ----------- |
-| [gin](https://github.com/gin-gonic/gin) | 74349 | 7736 | 767 | Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. | 2024-02-19 02:34:48 |
-| [beego](https://github.com/beego/beego) | 30684 | 5567 | 16 | beego is an open-source, high-performance web framework for the Go programming language. | 2024-02-05 07:29:29 |
-| [fiber](https://github.com/gofiber/fiber) | 30425 | 1498 | 77 | ⚡️ Express inspired web framework written in Go | 2024-02-23 08:12:00 |
-| [echo](https://github.com/labstack/echo) | 27983 | 2193 | 79 | High performance, minimalist Go web framework | 2024-02-18 13:47:13 |
-| [kit](https://github.com/go-kit/kit) | 25962 | 2412 | 46 | A standard library for microservices. | 2023-12-22 23:16:59 |
-| [iris](https://github.com/kataras/iris) | 24730 | 2464 | 107 | The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket: | 2024-01-22 13:35:09 |
-| [fasthttp](https://github.com/valyala/fasthttp) | 20777 | 1698 | 81 | Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http | 2024-02-21 06:21:52 |
-| [mux](https://github.com/gorilla/mux) | 19904 | 1821 | 23 | Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍 | 2024-01-22 04:09:26 |
-| [chi](https://github.com/go-chi/chi) | 16650 | 942 | 68 | lightweight, idiomatic and composable router for building Go HTTP services | 2024-02-17 00:24:11 |
-| [httprouter](https://github.com/julienschmidt/httprouter) | 16150 | 1447 | 80 | A high performance HTTP request router that scales well | 2024-01-30 10:56:56 |
-| [revel](https://github.com/revel/revel) | 13064 | 1389 | 100 | A high productivity, full-stack web framework for the Go language. | 2022-04-12 20:53:30 |
-| [martini](https://github.com/go-martini/martini) | 11624 | 1165 | 15 | ⚠️ No longer maintained ⚠️  Classy web framework for Go | 2017-01-21 21:58:54 |
-| [buffalo](https://github.com/gobuffalo/buffalo) | 8028 | 619 | 24 | Rapid Web Development w/ Go | 2023-01-26 15:34:17 |
-| [goa](https://github.com/goadesign/goa) | 5413 | 601 | 8 | 🌟 Goa: Elevate Go API development! 🚀 Streamlined design, automatic code generation, and seamless HTTP/gRPC support. ✨ | 2024-02-21 21:51:12 |
-| [go-restful](https://github.com/emicklei/go-restful) | 4944 | 737 | 3 | package for building REST-style Web Services using Go | 2024-02-24 13:59:04 |
-| [gizmo](https://github.com/nytimes/gizmo) | 3749 | 236 | 33 | A Microservice Toolkit from The New York Times | 2021-04-30 15:27:05 |
-| [go-json-rest](https://github.com/ant0ine/go-json-rest) | 3510 | 417 | 47 | A quick and easy way to setup a RESTful JSON API | 2017-09-13 04:12:08 |
-| [macaron](https://github.com/go-macaron/macaron) | 3461 | 293 | 6 | Package macaron is a high productive and modular web framework in Go. | 2024-02-12 02:25:59 |
-| [armor](https://github.com/labstack/armor) | 1663 | 70 | 21 | Uncomplicated, modern HTTP server | 2019-08-03 18:10:09 |
+| [gin](https://github.com/gin-gonic/gin) | 74475 | 7742 | 770 | Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. | 2024-02-19 02:34:48 |
+| [beego](https://github.com/beego/beego) | 30704 | 5568 | 15 | beego is an open-source, high-performance web framework for the Go programming language. | 2024-03-02 15:49:25 |
+| [fiber](https://github.com/gofiber/fiber) | 30494 | 1510 | 79 | ⚡️ Express inspired web framework written in Go | 2024-03-02 14:23:46 |
+| [echo](https://github.com/labstack/echo) | 28026 | 2194 | 82 | High performance, minimalist Go web framework | 2024-02-18 13:47:13 |
+| [kit](https://github.com/go-kit/kit) | 25979 | 2413 | 46 | A standard library for microservices. | 2023-12-22 23:16:59 |
+| [iris](https://github.com/kataras/iris) | 24735 | 2468 | 109 | The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket: | 2024-01-22 13:35:09 |
+| [fasthttp](https://github.com/valyala/fasthttp) | 20795 | 1697 | 80 | Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http | 2024-03-02 15:21:23 |
+| [mux](https://github.com/gorilla/mux) | 19928 | 1824 | 23 | Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍 | 2024-01-22 04:09:26 |
+| [chi](https://github.com/go-chi/chi) | 16680 | 943 | 68 | lightweight, idiomatic and composable router for building Go HTTP services | 2024-02-17 00:24:11 |
+| [httprouter](https://github.com/julienschmidt/httprouter) | 16168 | 1449 | 80 | A high performance HTTP request router that scales well | 2024-01-30 10:56:56 |
+| [revel](https://github.com/revel/revel) | 13066 | 1391 | 100 | A high productivity, full-stack web framework for the Go language. | 2022-04-12 20:53:30 |
+| [martini](https://github.com/go-martini/martini) | 11625 | 1105 | 15 | ⚠️ No longer maintained ⚠️  Classy web framework for Go | 2017-01-21 21:58:54 |
+| [buffalo](https://github.com/gobuffalo/buffalo) | 8031 | 564 | 24 | Rapid Web Development w/ Go | 2023-01-26 15:34:17 |
+| [goa](https://github.com/goadesign/goa) | 5418 | 549 | 11 | 🌟 Goa: Elevate Go API development! 🚀 Streamlined design, automatic code generation, and seamless HTTP/gRPC support. ✨ | 2024-02-29 17:20:54 |
+| [go-restful](https://github.com/emicklei/go-restful) | 4949 | 737 | 3 | package for building REST-style Web Services using Go | 2024-02-24 13:59:04 |
+| [gizmo](https://github.com/nytimes/gizmo) | 3751 | 236 | 33 | A Microservice Toolkit from The New York Times | 2021-04-30 15:27:05 |
+| [go-json-rest](https://github.com/ant0ine/go-json-rest) | 3512 | 417 | 47 | A quick and easy way to setup a RESTful JSON API | 2017-09-13 04:12:08 |
+| [macaron](https://github.com/go-macaron/macaron) | 3464 | 293 | 6 | Package macaron is a high productive and modular web framework in Go. | 2024-02-12 02:25:59 |
+| [armor](https://github.com/labstack/armor) | 1664 | 70 | 21 | Uncomplicated, modern HTTP server | 2019-08-03 18:10:09 |
 | [web](https://github.com/gocraft/web) | 1506 | 123 | 24 | Go Router + Middleware. Your Contexts. | 2019-02-07 15:06:52 |
-| [dotweb](https://github.com/devfeel/dotweb) | 1382 | 183 | 20 | Simple and easy go web micro framework | 2023-12-13 02:13:17 |
-| [goji](https://github.com/goji/goji) | 952 | 72 | 6 | Goji is a minimalistic and flexible HTTP request multiplexer for Go (golang) | 2019-01-26 23:58:29 |
-| [goji](https://github.com/goji/goji) | 952 | 72 | 6 | Goji is a minimalistic and flexible HTTP request multiplexer for Go (golang) | 2019-01-26 23:58:29 |
-| [tango](https://github.com/lunny/tango) | 835 | 108 | 9 | This is only a mirror and Moved to https://gitea.com/lunny/tango | 2019-05-17 03:31:10 |
+| [dotweb](https://github.com/devfeel/dotweb) | 1383 | 181 | 20 | Simple and easy go web micro framework | 2023-12-13 02:13:17 |
+| [goji](https://github.com/goji/goji) | 954 | 72 | 6 | Goji is a minimalistic and flexible HTTP request multiplexer for Go (golang) | 2019-01-26 23:58:29 |
+| [goji](https://github.com/goji/goji) | 954 | 72 | 6 | Goji is a minimalistic and flexible HTTP request multiplexer for Go (golang) | 2019-01-26 23:58:29 |
+| [tango](https://github.com/lunny/tango) | 834 | 108 | 9 | This is only a mirror and Moved to https://gitea.com/lunny/tango | 2019-05-17 03:31:10 |
 | [traffic](https://github.com/gravityblast/traffic) | 520 | 34 | 1 | Sinatra inspired regexp/pattern mux and web framework for Go [NOT MAINTAINED] | 2015-11-26 21:31:07 |
 | [neo](https://github.com/ivpusic/neo) | 418 | 43 | 6 | Go Web Framework | 2017-08-14 23:54:31 |
 | [mango](https://github.com/paulbellamy/mango) | 373 | 40 | 9 | Mango is a modular web-application framework for Go, inspired by Rack, and PEP333. | 2017-10-17 08:18:43 |
 | [webgo](https://github.com/bnkamalesh/webgo) | 294 | 29 | 2 | A microframework to build web apps; with handler chaining, middleware support, and most of all; standard library compliant HTTP handlers(i.e. http.HandlerFunc). | 2023-03-08 16:03:21 |
 
-*Last Automatic Update: 2024-02-25T00:50:35Z*
+*Last Automatic Update: 2024-03-03T00:49:27Z*
